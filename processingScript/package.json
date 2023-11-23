@@ -1,0 +1,2 @@
+{"type":"module","scripts":{"build":"rollup -c --bundleConfigAsCjs"},"devDependencies":{"@babel/plugin-transform-async-to-generator":"^7.23.3","@rollup/plugin-buble":"latest","rollup":"latest"}
+}
